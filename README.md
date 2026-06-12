@@ -21,3 +21,16 @@ chmod +x backup.sh
 
 **[The Spcript](https://github.com/0x9z/Automated-Backup-Script/blob/main/code/backup.sh)**
 
+📁 Output Example
+
+```
+BACKUPS/
+└── backup_2026-06-12_17-39-12.tar.gz
+```
+
+📌 Note
+
+You can change the SOURCE variable inside the script to back up any folder you want (e.g., Pictures, Projects, Videos).
+
+🤖 Created by `0x9z`
+
