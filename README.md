@@ -3,3 +3,8 @@
 **Make Quickly & Easy BACKUPS with the Automated bash Backups Script**
 
 **[The Spcript](https://github.com/0x9z/Automated-Backup-Script/blob/main/code/backup.sh)**
+
+**Commands Used in The Script :**
+-*tar*
+-*mkdir*
+-*date*
