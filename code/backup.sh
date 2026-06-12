@@ -2,7 +2,7 @@
 
 #a bash script to make easy backups
 
-#you can change the folder/path source:
+#you can change the folder/path source
 SOURCE="$HOME/Documents"
 
 #you can change where to save BACKUPS olders:
