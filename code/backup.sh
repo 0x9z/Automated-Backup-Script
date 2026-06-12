@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#a bash script to make easy backups
+#a bash script to make easy backups:
 
 #you can change the folder/path source
 SOURCE="$HOME/Documents"
