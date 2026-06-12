@@ -1,3 +1,4 @@
+
 # 🗂️ Automated Backup Script
 
 A simple **Bash script** to automatically back up any directory (e.g., `Documents`) into a compressed `.tar.gz` file with a **timestamp** (date & time) in the filename.
