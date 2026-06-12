@@ -5,7 +5,7 @@
 #you can change the folder/path source
 SOURCE="$HOME/Documents"
 
-#you can change where to save BACKUPS olders:
+#you can change where to save BACKUPS olders
 BACKUP_DIR="$HOME/shell/github/linux/backup-tools/BACKUPS"
 
 DATE=$(date +%Y-%m-%d_%H-%M-%S)
